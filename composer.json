@@ -1,5 +1,5 @@
 {
-    "name": "twilio/sdk",
+    "name": "grzegorzkurtyka/twilio-php-beta",
     "type": "library",
     "description": "A PHP wrapper for Twilio's API",
     "keywords": ["twilio", "sms", "api"],
